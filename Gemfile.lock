@@ -47,5 +47,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  haml
   mr-sparkle
   nesta (= 0.10.0)
