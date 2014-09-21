@@ -1,4 +1,4 @@
-Date: 31 Dec 2010
+Date: 20 Sep 2014
 
 # OsPro
 
@@ -12,5 +12,3 @@ In the other side, I declare myself a technologist, I love to experiment and lea
 [nesta]: http://nestacms.com
 [sinatra]: http://www.sinatrarb.com/
 [JOT Automation]: http://www.jotautomation.com/
-
-
