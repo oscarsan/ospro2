@@ -1,7 +1,7 @@
 .row
   .col-md-9
     #content
-      %article(role="main")
+      %article.text-justify(role="main")
         ~ @page.to_html(self)
         %section.pages
           = article_summaries(@page.pages)
