@@ -2,12 +2,11 @@ Date: 20 Sep 2014
 
 # Welcome
 
-Welcome to Ospro, this is my personal page based in 
-[nesta][], a cms that works with [sinatra][].
+Welcome to Ospro, this is my personal page based in [nesta][], a cms that works with [sinatra][].
 
-Currently I'm software architect/project manager working in [JOT Automation][], this company specialize in automation products for manufacturing and testing electronics and has several customer that are leaders in the areas of Mobile Phones, Automotive and Life Science.
+Currently I'm software architect/project manager working in [JOT Automation][], this company specializes in automation products for manufacturing and testing electronics and has several customer that are leaders in the areas of Mobile Phones, Automotive and Life Science.
 
-In the other side, I declare myself a technologist, I love to experiment and learn new things. I declare myself in love of product creation and I always want to make things looks and work better.
+In the other side, I declare myself a technologist, I love to experiment and learn new things. I declare myself in love of product creation and I always want to make things looks and work better. Been quite far away from the web world, but trying currently to fix it with a bit of personal effort and also introducing this fantastics technologies in the world of the Industrial Automation.
 
 [nesta]: http://nestacms.com
 [sinatra]: http://www.sinatrarb.com/

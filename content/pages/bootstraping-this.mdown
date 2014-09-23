@@ -2,9 +2,9 @@ Date: 23 Sep 2014
 
 # Bootstraping this
 
-There is quite a learning curve in the WEB world, right now I'm been just focused into change the front end of this simple website and I have to be clear, it has require some reading and researching. First I tried using bootstraping from the gem, but I was not very successful. Considering what some real front developer had told me, I just start first embedding the files. So just download bootstrap and jquery and add them to the body as references. Everything works after that, besides 1 fact.
+There is quite a learning curve in the WEB world, right now I've been focused in changing the front end of this simple website and I have to be clear, it has required some reading and researching. First I tried using bootstraping gem, but I was not very successful. Considering what some real front end developers had told me, I just start first embedding the files. So just download bootstrap and jquery and add them to the body as references. Everything works after that, besides 1 fact.
 
-If you want to start how nestacms really looks, you have to get a copy of all hamls and stylesheets from the gem and copy them to your own folder. After that you can start playing around. My thanks to [bootstrap-ruby][] for the sample and to [Socialicius][] for those fantastics icons.
+If you want to start to change how nestacms really looks, you have to get a copy of all hamls and stylesheets from the gem and copy them to your own folder. After that you can start playing around. My thanks to [bootstrap-ruby][] for the sample and to [Socialicius][] for those fantastics icons.
 
 
 
