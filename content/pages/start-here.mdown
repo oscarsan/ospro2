@@ -1,6 +1,6 @@
 Date: 20 Sep 2014
 
-# OsPro
+# Welcome
 
 Welcome to Ospro, this is my personal page based in 
 [nesta][], a cms that works with [sinatra][].
