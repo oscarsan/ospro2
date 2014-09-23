@@ -2,7 +2,7 @@
 @import "normalize"
 
 body
-  font: $size1 "Roboto Slab", serif
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
   line-height: 1.6
   color: $base-color
 
@@ -24,14 +24,34 @@ header[role=banner]
     color: $meta-color
     font-size: $size0
 
-  a.twitter
-    background: url(/images/twitter.png)
-    background-size: 16px 16px
+  a.mylink
     background-repeat: no-repeat
     display: block
     text-indent: -9999px
-    width: 16px
-    height: 16px
+    width: 32px
+    height: 32px
+    margin-right: 10px
+    margin-top: 10px
+
+a.mylink#twitter
+  background: url(/images/icon_twitter-sign.svg)
+  background-size: 32px 32px
+
+a.mylink#facebook
+  background: url(/images/icon_facebook-sign.svg)
+  background-size: 32px 32px
+
+a.mylink#github
+  background: url(/images/icon_github-sign.svg)
+  background-size: 32px 32px
+
+a.mylink#linkedin
+  background: url(/images/icon_linkedin-sign.svg)
+  background-size: 32px 32px
+
+a.mylink#spotify
+  background: url(/images/icon_spotify-sign.svg)
+  background-size: 32px 32px
 
 footer.branding
   padding-top: 2em

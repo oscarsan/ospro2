@@ -1,5 +1,24 @@
 %header(role="banner")
   %hgroup
-    %h1= @heading
-    %h2= @subtitle
-    %a.twitter(href="http://twitter.com/nestacms") Follow Nesta on Twitter
+    .navbar.navbar-default.navbar-static-top{:role => "navigation"}
+      .container-fluid
+        .navbar-header
+          %button.navbar-toggle.collapsed{"data-target" => ".navbar-collapse", "data-toggle" => "collapse", :type => "button"}
+            %span.sr-only Toggle navigation
+            %span.icon-bar
+            %span.icon-bar
+            %span.icon-bar
+          %a.navbar-brand= @heading
+          %p.navbar-text= @subtitle
+        .collapse.navbar-collapse
+          %ul.nav.navbar-nav.navbar-right
+            %li
+              %a.mylink#twitter(href="https://twitter.com/OscarSanR") Follow Nesta on Twitter
+            %li
+              %a.mylink#facebook(href="https://www.facebook.com/oscarurpo.sanhueza") Follow Nesta on Twitter
+            %li
+              %a.mylink#github(href="https://github.com/oscarsan/") Follow Nesta on Twitter
+            %li
+              %a.mylink#linkedin(href="http://fi.linkedin.com/in/oscarsanhuezariveros/") Follow Nesta on Twitter
+            %li
+              %a.mylink#spotify(href="https://play.spotify.com/user/oscarsanhueza/") Follow Nesta on Twitter                
