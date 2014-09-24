@@ -6,6 +6,8 @@ Image Manipulation is one thing from which you will not be able to escape when d
 
 I have tried few times to use this app and it is not very straight forward, but, it will do very well for simple things, like symbols or icons with transparent background like this one
 
+<img src="/attachments/ospro.png" alt="Ospro Picture" height= 100 width= 200 margin= "0 auto"/>
+
 Idea of GIMP is to work with layers. First you make one layer in which you add the text with a desired colour and font. Then you add a layer with a figure like that rectangle. It is not straight forward to create the rectangle, first you select the rectangle tool, draw it, select the rounded corners. Then you go to edit and press STROKE SELECTION, this will finally draw the line.
 
 So, not a very difficult task but it took me some time to figure it out.
