@@ -1,4 +1,4 @@
 - if ! @menu_items.empty?
   %nav.categories
-    %h1 Articles
-    - display_menu(Nesta::Menu.for_path('/docs'), :root => '/docs', :class => 'docs')
+    - display_menu(Nesta::Menu.for_path('/'), :root => '/', :class => 'docs', :levels => 2)
+/    - display_menu(Nesta::Menu.for_path('/docs'), :root => '/docs', :class => 'docs')
