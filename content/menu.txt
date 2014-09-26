@@ -1,4 +1,4 @@
-start-here
-bootstraping-this
-using-gimp
-
+/
+docs
+  docs/bootstraping-this
+  docs/using-gimp
