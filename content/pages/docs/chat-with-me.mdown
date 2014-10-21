@@ -1,0 +1,13 @@
+Date: 21 Nov 2014
+
+# Chat with me
+
+I was very interested looking some presentations from [Reaktor day 2014][] hold in Helsinki this year when I stopped by [this video][] of [ninchat's][] back-end architecture. I found the idea pretty good so I decided to try it and now you actually can chat with me. It was pretty simple and straight forward to embed this chat on my site, you can just create a chatroom on ninchat site and they will provide you with the neccesary code you need to embed in your site. I don't have really clear how the pricing works because I made a mistake and activate the free trial, which is different that the free acount, I hope I can downgrade after. But for the moment, you have 1 month to chat with me. Remember, this chat is public, so anything you write there will be visible to everyone.
+
+I find this is a very easy way to embed support for your site in a very easy way. If you provide some service to many users will will end up neededing something like this.
+
+
+
+[Reaktor day 2014]: http://reaktordesignday.fi/2014/
+[this video]: https://vimeo.com/77198926
+[ninchat's]: https://ninchat.com/

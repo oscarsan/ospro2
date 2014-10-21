@@ -1,4 +1,5 @@
 /
 docs
+  docs/chat-with-me
   docs/bootstraping-this
   docs/using-gimp
