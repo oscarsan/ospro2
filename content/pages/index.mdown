@@ -1,11 +1,9 @@
 # OSPRO
 
-Welcome to Ospro, this is my personal page based in [nesta][], a cms that works with [sinatra][].
+Welcome to Ospro, this is my personal page based in [nesta][], a cms that works with [sinatra][]. Also this would be the first portal for my new company [Hashdot Consulting Oy][]
 
-I'm currently a software architect/project manager working in [JOT Automation][], this company specializes in industrial automation products for manufacturing and testing electronics and have several clients who are leaders in the areas of Mobile Phones, Automotive and Life Science.
-
-furthermore, I declare myself a technologist, I love to experiment and learn new things. I get excited creating products and I always want to make things look and work better. I have been quite far away from the web world, trying currently to fix it with some personal effort and also introducing these fantastics technologies in the Industrial Automation business.
+I'm a declared technologist, I love to experiment and learn new things. I get excited creating products and I always want to make things look and work better. You can check my linkedin profile if you want to learn more.
 
 [nesta]: http://nestacms.com
 [sinatra]: http://www.sinatrarb.com/
-[JOT Automation]: http://www.jotautomation.com/
+[Hashdot Consulting Oy]: [http://hashdot.fi]
