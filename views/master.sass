@@ -40,6 +40,19 @@ img.ospro
   margin: 0 auto
   margin-bottom: 20px
 
+div#hashdot
+  float: none
+  margin: 0 auto
+  margin-bottom: 50px
+
+i.hash
+  font-size: 100px
+
+i.dot
+  font-size: 15px
+  margin-left: 56px
+  margin-top: 66px
+
 a.mylink#twitter
   background: url(/images/icon_twitter-sign.svg)
   background-size: 32px 32px
@@ -63,6 +76,11 @@ a.mylink#spotify
 footer.branding
   padding-top: 2em
 
+p.foot
+  font-size: 12px
+  float: none
+  margin: 0 auto
+  
 +respond-to(medium-screens)
   div#container
     margin: 0 auto
@@ -108,10 +126,10 @@ blockquote
   margin: $vertical-margin 0
   padding: 0 $vertical-margin / 2
   border-left: 5px solid $tint
-  
+
   font-style: italic
   color: $base-color + #555
-  
+
 pre
   display: block
   width: auto
@@ -186,8 +204,7 @@ article
     max-width: 100%
 
   footer
-    p.meta
-      font-style: italic
+    p
       color: $meta-color
 
 // Pages of content
@@ -200,7 +217,7 @@ article[role="main"]
       max-width: none
     ul#dsq-comments
       margin-left: 0
-  
+
 // Pages/articles assigned to this page
 section.pages,
 section.articles
