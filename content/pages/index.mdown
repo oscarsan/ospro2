@@ -1,6 +1,6 @@
 # HashDot Consulting
 
-Hashdot Consulting specialize SW. Experience in Web technologies, Agile methodologies, HTML 5, Javascript, Ruby, Java, C#, Industrial Automation.
+Hashdot Consulting specializes in SW development. Experience in Web technologies, Agile methodologies, HTML 5, Javascript, Ruby, Java, C# & Industrial Automation.
 
 
 [nesta]: http://nestacms.com
